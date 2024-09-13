@@ -1,4 +1,4 @@
-function Message_Processing(msg1) {
+function Message_Processing(msg) {
 
 var temperature=msg.payload.temperature;
 var humidity=msg.payload.humidity;
